@@ -1,1 +1,1 @@
-# node-express
+The purpose of this repository is to practice with Express in the MondoDB/Express/Node.js course in the Full Stack Web and Mobile Development Bootcamp with Nucamp Coding Bootcamp. 
